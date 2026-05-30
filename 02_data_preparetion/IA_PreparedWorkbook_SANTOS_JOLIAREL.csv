@@ -1,0 +1,206 @@
+transaction_id,date,store_id,store_name,region,product_id,product_name,category,unit_cost,units,unit_price,total_amount
+T00115,2/2/2025 0:00,S004,Bahaghari Cebu,Visayas,P201,Boy Bawang 100g,SNACKS,12,4,22,88
+T00142,10/3/2025 0:00,S006,Bahaghari Davao,Mindanao,P301,Rice 5kg,GROCERIES,210,10,275,2750
+T00058,9/18/2025 0:00,S004,Bahaghari Cebu,Visayas,P202,Cheez Curls,SNACKS,10,1,20,20
+T00124,11/26/2025 0:00,S006,Bahaghari Davao,Mindanao,P101,Coca-Cola 1.5L,BEVERAGES,45,2,65,130
+T00107,8/26/2025 0:00,S002,Bahaghari Makati,Luzon,P202,Cheez Curls,SNACKS,10,9,20,180
+T00143,5/18/2025 0:00,S004,Bahaghari Cebu,Visayas,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,10,85,850
+T00028,5/15/2025 0:00,S002,Bahaghari Makati,Luzon,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,1,95,95
+T00079,7/1/2025 0:00,S006,Bahaghari Davao,Mindanao,P204,Choco Mucho Bar,SNACKS,8,2,15,30
+T00032,6/7/2025 0:00,S001,Bahaghari Quezon City,Luzon,P104,Iced Tea Powder 25g,BEVERAGES,9,6,18,108
+T00146,4/19/2025 0:00,S003,Bahaghari Caloocan,Luzon,P202,Cheez Curls,SNACKS,10,8,20,160
+T00120,4/23/2025 0:00,S005,Bahaghari Iloilo,Visayas,P204,Choco Mucho Bar,SNACKS,8,8,15,120
+T00052,7/25/2025 0:00,S004,Bahaghari Cebu,Visayas,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,4,12,48
+T00081,6/20/2025 0:00,S004,Bahaghari Cebu,Visayas,P101,Coca-Cola 1.5L,BEVERAGES,45,3,65,195
+T00080,3/25/2025 0:00,S004,Bahaghari Cebu,Visayas,P201,Boy Bawang 100g,SNACKS,12,4,22,88
+T00065,10/3/2025 0:00,S005,Bahaghari Iloilo,Visayas,P104,Iced Tea Powder 25g,BEVERAGES,9,2,18,36
+T00166,8/2/2025 0:00,S002,Bahaghari Makati,Luzon,P104,Iced Tea Powder 25g,BEVERAGES,9,9,18,162
+T00094,6/8/2025 0:00,S006,Bahaghari Davao,Mindanao,P302,Cooking Oil 1L,GROCERIES,85,9,110,990
+T00123,10/31/2025 0:00,S005,Bahaghari Iloilo,Visayas,P101,Coca-Cola 1.5L,BEVERAGES,45,7,65,455
+T00145,1/15/2025 0:00,S004,Bahaghari Cebu,Visayas,P401,Safeguard Soap 90g,PERSONAL CARE,28,6,45,270
+T00056,10/5/2025 0:00,S002,Bahaghari Makati,Luzon,P102,Nescafe 3-in-1 Sachet,BEVERAGES,6,10,10,100
+T00180,11/3/2025 0:00,S004,Bahaghari Cebu,Visayas,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,2,95,190
+T00178,8/28/2025 0:00,S003,Bahaghari Caloocan,Luzon,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,2,95,190
+T00016,8/25/2025 0:00,S005,Bahaghari Iloilo,Visayas,P204,Choco Mucho Bar,SNACKS,8,3,15,45
+T00067,3/22/2025 0:00,S002,Bahaghari Makati,Luzon,P304,Noodles Pack 55g,GROCERIES,6,5,10,50
+T00101,9/21/2025 0:00,S006,Bahaghari Davao,Mindanao,P103,Bottled Water 500ml,BEVERAGES,8,5,15,75
+T00186,12/10/2025 0:00,S004,Bahaghari Cebu,Visayas,P303,Sardines Can 155g,GROCERIES,18,6,28,168
+T00069,3/10/2025 0:00,S001,Bahaghari Quezon City,Luzon,P302,Cooking Oil 1L,GROCERIES,85,2,110,220
+T00194,5/3/2025 0:00,S001,Bahaghari Quezon City,Luzon,P101,Coca-Cola 1.5L,BEVERAGES,45,10,65,650
+T00027,5/31/2025 0:00,S003,Bahaghari Caloocan,Luzon,P303,Sardines Can 155g,GROCERIES,18,2,28,56
+T00155,6/11/2025 0:00,S002,Bahaghari Makati,Luzon,P104,Iced Tea Powder 25g,BEVERAGES,9,4,18,72
+T00104,2/7/2025 0:00,S002,Bahaghari Makati,Luzon,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,10,12,120
+T00150,8/18/2025 0:00,S006,Bahaghari Davao,Mindanao,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,8,12,96
+T00041,6/19/2025 0:00,S002,Bahaghari Makati,Luzon,P103,Bottled Water 500ml,BEVERAGES,8,1,15,15
+T00071,4/15/2025 0:00,S003,Bahaghari Caloocan,Luzon,P203,Skyflakes Pack,SNACKS,18,6,30,180
+T00183,1/21/2025 0:00,S006,Bahaghari Davao,Mindanao,P301,Rice 5kg,GROCERIES,210,10,275,2750
+T00162,4/5/2025 0:00,S004,Bahaghari Cebu,Visayas,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,6,95,570
+T00053,7/19/2025 0:00,S002,Bahaghari Makati,Luzon,P401,Safeguard Soap 90g,PERSONAL CARE,28,1,45,45
+T00001,5/21/2025 0:00,S006,Bahaghari Davao,Mindanao,P104,Iced Tea Powder 25g,BEVERAGES,9,1,18,18
+T00154,6/6/2025 0:00,S006,Bahaghari Davao,Mindanao,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,5,95,475
+T00075,1/5/2025 0:00,S005,Bahaghari Iloilo,Visayas,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,9,85,765
+T00108,8/22/2025 0:00,S005,Bahaghari Iloilo,Visayas,P204,Choco Mucho Bar,SNACKS,8,2,15,30
+T00091,1/1/2025 0:00,S003,Bahaghari Caloocan,Luzon,P102,Nescafe 3-in-1 Sachet,BEVERAGES,6,7,10,70
+T00093,6/10/2025 0:00,S006,Bahaghari Davao,Mindanao,P303,Sardines Can 155g,GROCERIES,18,10,28,280
+T00149,10/12/2025 0:00,S002,Bahaghari Makati,Luzon,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,8,85,680
+T00187,12/22/2025 0:00,S002,Bahaghari Makati,Luzon,P303,Sardines Can 155g,GROCERIES,18,7,28,196
+T00072,1/27/2025 0:00,S005,Bahaghari Iloilo,Visayas,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,5,12,60
+T00083,4/24/2025 0:00,S004,Bahaghari Cebu,Visayas,P102,Nescafe 3-in-1 Sachet,BEVERAGES,6,8,10,80
+T00193,8/13/2025 0:00,S005,Bahaghari Iloilo,Visayas,P201,Boy Bawang 100g,SNACKS,12,5,22,110
+T00022,3/12/2025 0:00,S004,Bahaghari Cebu,Visayas,P304,Noodles Pack 55g,GROCERIES,6,4,10,40
+T00048,8/5/2025 0:00,S002,Bahaghari Makati,Luzon,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,3,95,285
+T00019,12/2/2025 0:00,S002,Bahaghari Makati,Luzon,P303,Sardines Can 155g,GROCERIES,18,4,28,112
+T00175,2/28/2025 0:00,S003,Bahaghari Caloocan,Luzon,P203,Skyflakes Pack,SNACKS,18,7,30,210
+T00131,8/31/2025 0:00,S002,Bahaghari Makati,Luzon,P204,Choco Mucho Bar,SNACKS,8,3,15,45
+T00011,4/9/2025 0:00,S006,Bahaghari Davao,Mindanao,P304,Noodles Pack 55g,GROCERIES,6,10,10,100
+T00134,10/24/2025 0:00,S002,Bahaghari Makati,Luzon,P302,Cooking Oil 1L,GROCERIES,85,2,110,220
+T00153,6/19/2025 0:00,S003,Bahaghari Caloocan,Luzon,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,9,85,765
+T00158,6/4/2025 0:00,S002,Bahaghari Makati,Luzon,P304,Noodles Pack 55g,GROCERIES,6,3,10,30
+T00034,9/30/2025 0:00,S006,Bahaghari Davao,Mindanao,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,2,12,24
+T00164,11/19/2025 0:00,S004,Bahaghari Cebu,Visayas,P103,Bottled Water 500ml,BEVERAGES,8,10,15,150
+T00110,9/1/2025 0:00,S004,Bahaghari Cebu,Visayas,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,3,95,285
+T00035,3/26/2025 0:00,S002,Bahaghari Makati,Luzon,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,9,12,108
+T00147,11/2/2025 0:00,S003,Bahaghari Caloocan,Luzon,P303,Sardines Can 155g,GROCERIES,18,5,28,140
+T00009,8/24/2025 0:00,S003,Bahaghari Caloocan,Luzon,P301,Rice 5kg,GROCERIES,210,1,275,275
+T00141,4/1/2025 0:00,S006,Bahaghari Davao,Mindanao,P201,Boy Bawang 100g,SNACKS,12,7,22,154
+T00023,2/26/2025 0:00,S004,Bahaghari Cebu,Visayas,P103,Bottled Water 500ml,BEVERAGES,8,1,15,15
+T00054,12/23/2025 0:00,S004,Bahaghari Cebu,Visayas,P302,Cooking Oil 1L,GROCERIES,85,7,110,770
+T00042,12/9/2025 0:00,S005,Bahaghari Iloilo,Visayas,P204,Choco Mucho Bar,SNACKS,8,5,15,75
+T00095,10/11/2025 0:00,S003,Bahaghari Caloocan,Luzon,P401,Safeguard Soap 90g,PERSONAL CARE,28,5,45,225
+T00151,7/27/2025 0:00,S001,Bahaghari Quezon City,Luzon,P302,Cooking Oil 1L,GROCERIES,85,4,110,440
+T00017,1/29/2025 0:00,S003,Bahaghari Caloocan,Luzon,P204,Choco Mucho Bar,SNACKS,8,6,15,90
+T00140,11/22/2025 0:00,S001,Bahaghari Quezon City,Luzon,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,6,85,510
+T00005,8/3/2025 0:00,S005,Bahaghari Iloilo,Visayas,P203,Skyflakes Pack,SNACKS,18,9,30,270
+T00006,3/23/2025 0:00,S004,Bahaghari Cebu,Visayas,P301,Rice 5kg,GROCERIES,210,1,275,275
+T00013,8/21/2025 0:00,S001,Bahaghari Quezon City,Luzon,P401,Safeguard Soap 90g,PERSONAL CARE,28,5,45,225
+T00163,2/3/2025 0:00,S003,Bahaghari Caloocan,Luzon,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,2,12,24
+T00109,11/10/2025 0:00,S004,Bahaghari Cebu,Visayas,P303,Sardines Can 155g,GROCERIES,18,8,28,224
+T00025,8/28/2025 0:00,S004,Bahaghari Cebu,Visayas,P401,Safeguard Soap 90g,PERSONAL CARE,28,10,45,450
+T00029,11/24/2025 0:00,S002,Bahaghari Makati,Luzon,P104,Iced Tea Powder 25g,BEVERAGES,9,5,18,90
+T00088,2/25/2025 0:00,S002,Bahaghari Makati,Luzon,P301,Rice 5kg,GROCERIES,210,1,275,275
+T00197,12/28/2025 0:00,S004,Bahaghari Cebu,Visayas,P302,Cooking Oil 1L,GROCERIES,85,9,110,990
+T00030,7/11/2025 0:00,S005,Bahaghari Iloilo,Visayas,P203,Skyflakes Pack,SNACKS,18,3,30,90
+T00179,9/14/2025 0:00,S006,Bahaghari Davao,Mindanao,P401,Safeguard Soap 90g,PERSONAL CARE,28,5,45,225
+T00064,1/5/2025 0:00,S004,Bahaghari Cebu,Visayas,P303,Sardines Can 155g,GROCERIES,18,2,28,56
+T00078,7/3/2025 0:00,S003,Bahaghari Caloocan,Luzon,P304,Noodles Pack 55g,GROCERIES,6,1,10,10
+T00007,4/21/2025 0:00,S003,Bahaghari Caloocan,Luzon,P301,Rice 5kg,GROCERIES,210,3,275,825
+T00073,1/23/2025 0:00,S006,Bahaghari Davao,Mindanao,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,5,85,425
+T00126,8/21/2025 0:00,S004,Bahaghari Cebu,Visayas,P303,Sardines Can 155g,GROCERIES,18,4,28,112
+T00036,10/4/2025 0:00,S005,Bahaghari Iloilo,Visayas,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,4,85,340
+T00051,3/27/2025 0:00,S001,Bahaghari Quezon City,Luzon,P103,Bottled Water 500ml,BEVERAGES,8,4,15,60
+T00172,8/19/2025 0:00,S002,Bahaghari Makati,Luzon,P101,Coca-Cola 1.5L,BEVERAGES,45,7,65,455
+T00003,1/16/2025 0:00,S001,Bahaghari Quezon City,Luzon,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,1,85,85
+T00097,10/8/2025 0:00,S005,Bahaghari Iloilo,Visayas,P302,Cooking Oil 1L,GROCERIES,85,7,110,770
+T00090,10/23/2025 0:00,S005,Bahaghari Iloilo,Visayas,P104,Iced Tea Powder 25g,BEVERAGES,9,7,18,126
+T00144,8/19/2025 0:00,S002,Bahaghari Makati,Luzon,P103,Bottled Water 500ml,BEVERAGES,8,5,15,75
+T00100,8/31/2025 0:00,S006,Bahaghari Davao,Mindanao,P203,Skyflakes Pack,SNACKS,18,9,30,270
+T00046,2/1/2025 0:00,S004,Bahaghari Cebu,Visayas,P102,Nescafe 3-in-1 Sachet,BEVERAGES,6,2,10,20
+T00182,10/28/2025 0:00,S001,Bahaghari Quezon City,Luzon,P204,Choco Mucho Bar,SNACKS,8,10,15,150
+T00049,2/8/2025 0:00,S003,Bahaghari Caloocan,Luzon,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,4,95,380
+T00031,6/15/2025 0:00,S005,Bahaghari Iloilo,Visayas,P101,Coca-Cola 1.5L,BEVERAGES,45,10,65,650
+T00014,4/18/2025 0:00,S002,Bahaghari Makati,Luzon,P304,Noodles Pack 55g,GROCERIES,6,6,10,60
+T00188,1/19/2025 0:00,S003,Bahaghari Caloocan,Luzon,P401,Safeguard Soap 90g,PERSONAL CARE,28,9,45,405
+T00050,11/30/2025 0:00,S005,Bahaghari Iloilo,Visayas,P104,Iced Tea Powder 25g,BEVERAGES,9,1,18,18
+T00156,4/21/2025 0:00,S006,Bahaghari Davao,Mindanao,P202,Cheez Curls,SNACKS,10,4,20,80
+T00190,8/25/2025 0:00,S004,Bahaghari Cebu,Visayas,P101,Coca-Cola 1.5L,BEVERAGES,45,9,65,585
+T00176,3/14/2025 0:00,S002,Bahaghari Makati,Luzon,P201,Boy Bawang 100g,SNACKS,12,5,22,110
+T00195,7/28/2025 0:00,S003,Bahaghari Caloocan,Luzon,P101,Coca-Cola 1.5L,BEVERAGES,45,9,65,585
+T00089,8/12/2025 0:00,S004,Bahaghari Cebu,Visayas,P304,Noodles Pack 55g,GROCERIES,6,6,10,60
+T00055,4/8/2025 0:00,S006,Bahaghari Davao,Mindanao,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,3,12,36
+T00169,2/20/2025 0:00,S005,Bahaghari Iloilo,Visayas,P102,Nescafe 3-in-1 Sachet,BEVERAGES,6,10,10,100
+T00198,5/5/2025 0:00,S004,Bahaghari Cebu,Visayas,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,8,12,96
+T00148,4/8/2025 0:00,S005,Bahaghari Iloilo,Visayas,P101,Coca-Cola 1.5L,BEVERAGES,45,9,65,585
+T00138,2/5/2025 0:00,S005,Bahaghari Iloilo,Visayas,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,6,85,510
+T00057,1/26/2025 0:00,S006,Bahaghari Davao,Mindanao,P303,Sardines Can 155g,GROCERIES,18,1,28,28
+T00165,6/5/2025 0:00,S002,Bahaghari Makati,Luzon,P201,Boy Bawang 100g,SNACKS,12,10,22,220
+T00171,10/10/2025 0:00,S002,Bahaghari Makati,Luzon,P204,Choco Mucho Bar,SNACKS,8,3,15,45
+T00070,3/21/2025 0:00,S001,Bahaghari Quezon City,Luzon,P104,Iced Tea Powder 25g,BEVERAGES,9,9,18,162
+T00177,11/1/2025 0:00,S001,Bahaghari Quezon City,Luzon,P202,Cheez Curls,SNACKS,10,5,20,100
+T00133,11/7/2025 0:00,S003,Bahaghari Caloocan,Luzon,P202,Cheez Curls,SNACKS,10,10,20,200
+T00174,2/6/2025 0:00,S006,Bahaghari Davao,Mindanao,P302,Cooking Oil 1L,GROCERIES,85,8,110,880
+T00132,12/25/2025 0:00,S005,Bahaghari Iloilo,Visayas,P203,Skyflakes Pack,SNACKS,18,8,30,240
+T00103,1/13/2025 0:00,S002,Bahaghari Makati,Luzon,P203,Skyflakes Pack,SNACKS,18,3,30,90
+T00116,8/27/2025 0:00,S004,Bahaghari Cebu,Visayas,P303,Sardines Can 155g,GROCERIES,18,9,28,252
+T00002,12/13/2025 0:00,S002,Bahaghari Makati,Luzon,P201,Boy Bawang 100g,SNACKS,12,2,22,44
+T00086,11/25/2025 0:00,S001,Bahaghari Quezon City,Luzon,P301,Rice 5kg,GROCERIES,210,6,275,1650
+T00130,1/11/2025 0:00,S001,Bahaghari Quezon City,Luzon,P204,Choco Mucho Bar,SNACKS,8,4,15,60
+T00118,7/14/2025 0:00,S006,Bahaghari Davao,Mindanao,P101,Coca-Cola 1.5L,BEVERAGES,45,10,65,650
+T00066,6/28/2025 0:00,S005,Bahaghari Iloilo,Visayas,P301,Rice 5kg,GROCERIES,210,3,275,825
+T00119,7/19/2025 0:00,S001,Bahaghari Quezon City,Luzon,P304,Noodles Pack 55g,GROCERIES,6,5,10,50
+T00205,10/20/2025 0:00,S002,Bahaghari Makati,Luzon,P204,Choco Mucho Bar,SNACKS,8,0,15,0
+T00184,4/3/2025 0:00,S004,Bahaghari Cebu,Visayas,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,5,95,475
+T00128,10/4/2025 0:00,S001,Bahaghari Quezon City,Luzon,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,1,12,12
+T00062,4/15/2025 0:00,S006,Bahaghari Davao,Mindanao,P303,Sardines Can 155g,GROCERIES,18,5,28,140
+T00200,5/22/2025 0:00,S005,Bahaghari Iloilo,Visayas,P201,Boy Bawang 100g,SNACKS,12,2,22,44
+T00173,4/29/2025 0:00,S004,Bahaghari Cebu,Visayas,P302,Cooking Oil 1L,GROCERIES,85,1,110,110
+T00045,8/5/2025 0:00,S001,Bahaghari Quezon City,Luzon,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,6,85,510
+T00044,4/8/2025 0:00,S002,Bahaghari Makati,Luzon,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,7,12,84
+T00047,5/8/2025 0:00,S006,Bahaghari Davao,Mindanao,P303,Sardines Can 155g,GROCERIES,18,2,28,56
+T00203,6/26/2025 0:00,S005,Bahaghari Iloilo,Visayas,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,0,12,0
+T00136,12/23/2025 0:00,S005,Bahaghari Iloilo,Visayas,P204,Choco Mucho Bar,SNACKS,8,2,15,30
+T00063,3/9/2025 0:00,S002,Bahaghari Makati,Luzon,P301,Rice 5kg,GROCERIES,210,7,275,1925
+T00038,5/7/2025 0:00,S004,Bahaghari Cebu,Visayas,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,2,95,190
+T00111,9/24/2025 0:00,S003,Bahaghari Caloocan,Luzon,P204,Choco Mucho Bar,SNACKS,8,5,15,75
+T00096,12/13/2025 0:00,S002,Bahaghari Makati,Luzon,P402,Colgate Toothpaste 100ml,PERSONAL CARE,55,7,85,595
+T00092,8/9/2025 0:00,S005,Bahaghari Iloilo,Visayas,P203,Skyflakes Pack,SNACKS,18,6,30,180
+T00076,1/19/2025 0:00,S001,Bahaghari Quezon City,Luzon,P201,Boy Bawang 100g,SNACKS,12,9,22,198
+T00015,11/22/2025 0:00,S006,Bahaghari Davao,Mindanao,P103,Bottled Water 500ml,BEVERAGES,8,10,15,150
+T00084,4/27/2025 0:00,S004,Bahaghari Cebu,Visayas,P304,Noodles Pack 55g,GROCERIES,6,5,10,50
+T00202,3/18/2025 0:00,S006,Bahaghari Davao,Mindanao,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,0,12,0
+T00008,2/19/2025 0:00,S001,Bahaghari Quezon City,Luzon,P103,Bottled Water 500ml,BEVERAGES,8,7,15,105
+T00077,3/7/2025 0:00,S005,Bahaghari Iloilo,Visayas,P201,Boy Bawang 100g,SNACKS,12,7,22,154
+T00043,10/23/2025 0:00,S002,Bahaghari Makati,Luzon,P201,Boy Bawang 100g,SNACKS,12,10,22,220
+T00114,3/19/2025 0:00,S003,Bahaghari Caloocan,Luzon,P103,Bottled Water 500ml,BEVERAGES,8,3,15,45
+T00157,4/10/2025 0:00,S003,Bahaghari Caloocan,Luzon,P302,Cooking Oil 1L,GROCERIES,85,2,110,220
+T00189,6/15/2025 0:00,S001,Bahaghari Quezon City,Luzon,P303,Sardines Can 155g,GROCERIES,18,5,28,140
+T00112,8/14/2025 0:00,S006,Bahaghari Davao,Mindanao,P204,Choco Mucho Bar,SNACKS,8,5,15,75
+T00024,11/2/2025 0:00,S006,Bahaghari Davao,Mindanao,P202,Cheez Curls,SNACKS,10,7,20,140
+T00059,2/4/2025 0:00,S002,Bahaghari Makati,Luzon,P103,Bottled Water 500ml,BEVERAGES,8,10,15,150
+T00074,3/24/2025 0:00,S003,Bahaghari Caloocan,Luzon,P201,Boy Bawang 100g,SNACKS,12,5,22,110
+T00061,2/11/2025 0:00,S005,Bahaghari Iloilo,Visayas,P102,Nescafe 3-in-1 Sachet,BEVERAGES,6,10,10,100
+T00018,5/18/2025 0:00,S001,Bahaghari Quezon City,Luzon,P303,Sardines Can 155g,GROCERIES,18,7,28,196
+T00159,1/24/2025 0:00,S006,Bahaghari Davao,Mindanao,P201,Boy Bawang 100g,SNACKS,12,5,22,110
+T00196,3/2/2025 0:00,S002,Bahaghari Makati,Luzon,P104,Iced Tea Powder 25g,BEVERAGES,9,8,18,144
+T00139,8/4/2025 0:00,S006,Bahaghari Davao,Mindanao,P303,Sardines Can 155g,GROCERIES,18,1,28,28
+T00125,1/26/2025 0:00,S002,Bahaghari Makati,Luzon,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,3,95,285
+T00161,5/26/2025 0:00,S001,Bahaghari Quezon City,Luzon,P101,Coca-Cola 1.5L,BEVERAGES,45,10,65,650
+T00201,10/28/2025 0:00,S006,Bahaghari Davao,Mindanao,P302,Cooking Oil 1L,GROCERIES,85,0,110,0
+T00137,1/22/2025 0:00,S006,Bahaghari Davao,Mindanao,P104,Iced Tea Powder 25g,BEVERAGES,9,10,18,180
+T00192,4/15/2025 0:00,S004,Bahaghari Cebu,Visayas,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,1,95,95
+T00021,8/8/2025 0:00,S002,Bahaghari Makati,Luzon,P301,Rice 5kg,GROCERIES,210,10,275,2750
+T00204,8/22/2025 0:00,S005,Bahaghari Iloilo,Visayas,P401,Safeguard Soap 90g,PERSONAL CARE,28,0,45,0
+T00102,12/11/2025 0:00,S003,Bahaghari Caloocan,Luzon,P103,Bottled Water 500ml,BEVERAGES,8,4,15,60
+T00160,11/23/2025 0:00,S005,Bahaghari Iloilo,Visayas,P302,Cooking Oil 1L,GROCERIES,85,3,110,330
+T00087,3/1/2025 0:00,S004,Bahaghari Cebu,Visayas,P303,Sardines Can 155g,GROCERIES,18,1,28,28
+T00068,12/1/2025 0:00,S005,Bahaghari Iloilo,Visayas,P302,Cooking Oil 1L,GROCERIES,85,10,110,1100
+T00121,7/19/2025 0:00,S004,Bahaghari Cebu,Visayas,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,1,12,12
+T00020,5/16/2025 0:00,S004,Bahaghari Cebu,Visayas,P403,Sunsilk Shampoo 180ml,PERSONAL CARE,62,3,95,285
+T00040,2/6/2025 0:00,S002,Bahaghari Makati,Luzon,P204,Choco Mucho Bar,SNACKS,8,1,15,15
+T00168,8/8/2025 0:00,S004,Bahaghari Cebu,Visayas,P302,Cooking Oil 1L,GROCERIES,85,10,110,1100
+T00105,9/11/2025 0:00,S004,Bahaghari Cebu,Visayas,P203,Skyflakes Pack,SNACKS,18,7,30,210
+T00037,12/10/2025 0:00,S006,Bahaghari Davao,Mindanao,P302,Cooking Oil 1L,GROCERIES,85,7,110,770
+T00185,8/29/2025 0:00,S004,Bahaghari Cebu,Visayas,P404,Head & Shoulders Sachet,PERSONAL CARE,6.5,2,12,24
+T00004,11/5/2025 0:00,S002,Bahaghari Makati,Luzon,P204,Choco Mucho Bar,SNACKS,8,9,15,135
+T00117,7/19/2025 0:00,S001,Bahaghari Quezon City,Luzon,P203,Skyflakes Pack,SNACKS,18,7,30,210
+T00135,4/12/2025 0:00,S003,Bahaghari Caloocan,Luzon,P401,Safeguard Soap 90g,PERSONAL CARE,28,7,45,315
+T00113,5/20/2025 0:00,S006,Bahaghari Davao,Mindanao,P302,Cooking Oil 1L,GROCERIES,85,4,110,440
+T00026,12/16/2025 0:00,S003,Bahaghari Caloocan,Luzon,P101,Coca-Cola 1.5L,BEVERAGES,45,2,65,130
+T00085,6/18/2025 0:00,S001,Bahaghari Quezon City,Luzon,P203,Skyflakes Pack,SNACKS,18,7,30,210
+T00152,10/11/2025 0:00,S003,Bahaghari Caloocan,Luzon,P304,Noodles Pack 55g,GROCERIES,6,8,10,80
+T00129,11/30/2025 0:00,S003,Bahaghari Caloocan,Luzon,P204,Choco Mucho Bar,SNACKS,8,2,15,30
+T00033,2/10/2025 0:00,S001,Bahaghari Quezon City,Luzon,P204,Choco Mucho Bar,SNACKS,8,10,15,150
+T00010,10/10/2025 0:00,S001,Bahaghari Quezon City,Luzon,P401,Safeguard Soap 90g,PERSONAL CARE,28,2,45,90
+T00127,8/4/2025 0:00,S003,Bahaghari Caloocan,Luzon,P401,Safeguard Soap 90g,PERSONAL CARE,28,5,45,225
+T00039,10/29/2025 0:00,S001,Bahaghari Quezon City,Luzon,P303,Sardines Can 155g,GROCERIES,18,1,28,28
+T00167,7/14/2025 0:00,S005,Bahaghari Iloilo,Visayas,P204,Choco Mucho Bar,SNACKS,8,9,15,135
+T00170,12/5/2025 0:00,S006,Bahaghari Davao,Mindanao,P203,Skyflakes Pack,SNACKS,18,5,30,150
+T00099,8/15/2025 0:00,S005,Bahaghari Iloilo,Visayas,P303,Sardines Can 155g,GROCERIES,18,8,28,224
+T00098,8/9/2025 0:00,S003,Bahaghari Caloocan,Luzon,P302,Cooking Oil 1L,GROCERIES,85,4,110,440
+T00181,5/9/2025 0:00,S004,Bahaghari Cebu,Visayas,P303,Sardines Can 155g,GROCERIES,18,10,28,280
+T00122,8/28/2025 0:00,S006,Bahaghari Davao,Mindanao,P401,Safeguard Soap 90g,PERSONAL CARE,28,3,45,135
+T00191,7/5/2025 0:00,S001,Bahaghari Quezon City,Luzon,P203,Skyflakes Pack,SNACKS,18,9,30,270
+T00082,3/23/2025 0:00,S006,Bahaghari Davao,Mindanao,P204,Choco Mucho Bar,SNACKS,8,5,15,75
+T00012,2/10/2025 0:00,S001,Bahaghari Quezon City,Luzon,P204,Choco Mucho Bar,SNACKS,8,5,15,75
+T00106,2/24/2025 0:00,S002,Bahaghari Makati,Luzon,P201,Boy Bawang 100g,SNACKS,12,1,22,22
+T00199,4/8/2025 0:00,S005,Bahaghari Iloilo,Visayas,P201,Boy Bawang 100g,SNACKS,12,7,22,154
+T00060,5/7/2025 0:00,S004,Bahaghari Cebu,Visayas,P104,Iced Tea Powder 25g,BEVERAGES,9,10,18,180

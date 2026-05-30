@@ -27,11 +27,3 @@ This repository is organized strictly in compliance with the TESDA Institutional
 ---
 
 ---
-
-### 🛠️ Analytics Tech Stack & Setup Environment
-To execute the scripts or inspect the data models locally, ensure the following configurations are established:
-1.  **Microsoft Excel:** Version 365 or 2021 with the **Data Analysis ToolPak** add-in active (`File` -> `Options` -> `Add-ins`)
-2.  **SQL Environment:** 
-3.  **Microsoft Power BI Desktop:** Free desktop edition (Optimized for May 2026 build or newer). Ensure data source settings point correctly to the local directory path of `IA_PreparedWorkbook_SANTOSJA.xlsx` if refreshing data connectivity links
-
----

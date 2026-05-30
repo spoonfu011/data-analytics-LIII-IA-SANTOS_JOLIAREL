@@ -1,5 +1,5 @@
 # Data Analytics Level III - Institutional Competency Assessment
-## Candidate: [Your Name]
+## Candidate: JOLI AREL SANTOS
 ## Date of Submission: May 30, 2026
 
 ---
@@ -35,6 +35,3 @@ To execute the scripts or inspect the data models locally, ensure the following 
 3.  **Microsoft Power BI Desktop:** Free desktop edition (Optimized for May 2026 build or newer)[cite: 1, 2]. Ensure data source settings point correctly to the local directory path of `IA_PreparedWorkbook_SANTOSJA.xlsx` if refreshing data connectivity links
 
 ---
-
-
-**Candidate Name:** JOLI AREL SANTOS

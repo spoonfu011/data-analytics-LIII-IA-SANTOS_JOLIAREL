@@ -20,7 +20,7 @@ This repository is organized strictly in compliance with the TESDA Institutional
     * `IA_Preparation_SANTOSJA.sql`: A production-ready SQL script designed for SQLite/VS Code environment[cite: 1, 2]. Implements full ETL logic including data type correction, duplicate row deduplication, leading/trailing space trimming (`TRIM`), category string case standardization, and localized text handling for missing values (unassigned regions/blank units).
     * `IA_PreparedWorkbook_SANTOSJA.xlsx`: The fully cleaned, filtered (most recent full fiscal year), and joined denormalized master analysis-ready dataset extracted post-ETL processing
 * **`03_visualization/`**
-    * `IA_Dashboard_[YourName].pbix`: The core Microsoft Power BI Desktop model featuring a star-schema architecture (Fact table linked to structured Dimension tables), customized advanced DAX measures, 
+    * `IA_Dashboard_SANTOSJA.pbix`: The core Microsoft Power BI Desktop model featuring a star-schema architecture (Fact table linked to structured Dimension tables), customized advanced DAX measures, 
 * **`04_executive_summary/`**
     * `IA_Executive Summary_SANTOSJA.pdf`: A professional, 1-page business report addressing executive leadership[cite: 1, 2]. Synthesizes 3+ data-validated operational insights—such as structural category over-dependencies, data integration anomalies, regional performance gaps—and strategic corporate action items
 
